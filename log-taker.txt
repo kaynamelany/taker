@@ -2871,3 +2871,15 @@
 4/5/2025 | 8:09:09 AM | INFO | Trying to check user miner status... 
 4/5/2025 | 8:09:09 AM | INFO | Last mining time: 4/4/2025, 8:11:00 AM
 4/5/2025 | 8:09:09 AM | WARN | Mining already started, next mining time is: 4/5/2025, 8:11:00 AM
+4/5/2025 | 12:12:01 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/5/2025 | 12:12:01 PM | INFO | Start process for wallet 0x92650e32f3770392621c740E19D05B8C3B7fA554 
+4/5/2025 | 12:12:02 PM | INFO | Trying To Login for wallet: 0x92650e32f3770392621c740E19D05B8C3B7fA554 
+4/5/2025 | 12:12:03 PM | INFO | Login successful... 
+4/5/2025 | 12:12:03 PM | INFO | Trying to check user info... 
+4/5/2025 | 12:12:04 PM | INFO | User ID: 102714958 | Twitter: @kaynemelany | Total Points: 1032000 
+4/5/2025 | 12:12:04 PM | INFO | Trying to check user miner status... 
+4/5/2025 | 12:12:04 PM | INFO | Last mining time: 4/4/2025, 8:11:00 AM
+4/5/2025 | 12:12:04 PM | INFO | Trying to start Mining for wallet: 0x92650e32f3770392621c740E19D05B8C3B7fA554 
+4/5/2025 | 12:12:05 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+4/5/2025 | 12:12:05 PM | INFO | Trying to activate mining on-chain for wallet: 0x92650e32f3770392621c740E19D05B8C3B7fA554 
+4/5/2025 | 12:12:16 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x22eda299d8d21d5893c420052f35af262429af36a437e240558dcc039fbbcb3a 
