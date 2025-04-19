@@ -3679,3 +3679,15 @@
 4/19/2025 | 8:09:31 AM | INFO | Trying to activate mining on-chain for wallet: 0x92650e32f3770392621c740E19D05B8C3B7fA554 
 4/19/2025 | 8:09:48 AM | ERROR | Activate Mining Error: {"code":"ECONNRESET","path":null,"host":"rpc-mainnet.taker.xyz","port":443}
 4/19/2025 | 8:09:48 AM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+4/19/2025 | 12:12:03 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/19/2025 | 12:12:04 PM | INFO | Start process for wallet 0x92650e32f3770392621c740E19D05B8C3B7fA554 
+4/19/2025 | 12:12:05 PM | INFO | Trying To Login for wallet: 0x92650e32f3770392621c740E19D05B8C3B7fA554 
+4/19/2025 | 12:12:05 PM | INFO | Login successful... 
+4/19/2025 | 12:12:05 PM | INFO | Trying to check user info... 
+4/19/2025 | 12:12:06 PM | INFO | User ID: 102714958 | Twitter: @kaynemelany | Total Points: 1344000 
+4/19/2025 | 12:12:06 PM | INFO | Trying to check user miner status... 
+4/19/2025 | 12:12:08 PM | INFO | Last mining time: 4/18/2025, 4:10:03 AM
+4/19/2025 | 12:12:08 PM | INFO | Trying to start Mining for wallet: 0x92650e32f3770392621c740E19D05B8C3B7fA554 
+4/19/2025 | 12:12:31 PM | INFO | Mine response: {"code":500,"msg":"startMining Fail, startMining has not reached refresh time","data":null}
+4/19/2025 | 12:12:31 PM | INFO | Trying to activate mining on-chain for wallet: 0x92650e32f3770392621c740E19D05B8C3B7fA554 
+4/19/2025 | 12:12:52 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x9bfc0ae56dc86e962bfc7d394302be56e1e85445422690159dc6cf1c4d9b1a86 
