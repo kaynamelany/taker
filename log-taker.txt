@@ -5042,3 +5042,15 @@
 5/13/2025 | 8:12:02 AM | INFO | Trying to activate mining on-chain for wallet: 0x92650e32f3770392621c740E19D05B8C3B7fA554 
 5/13/2025 | 8:12:03 AM | ERROR | Activate Mining Error: {"code":"SERVER_ERROR","request":{},"response":{},"info":{"requestUrl":"https://rpc-mainnet.taker.xyz/","responseBody":"<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.26.2</center>\r\n</body>\r\n</html>\r\n","responseStatus":"502 Bad Gateway"},"shortMessage":"server response 502 Bad Gateway"}
 5/13/2025 | 8:12:03 AM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+5/13/2025 | 12:15:31 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/13/2025 | 12:15:32 PM | INFO | Start process for wallet 0x92650e32f3770392621c740E19D05B8C3B7fA554 
+5/13/2025 | 12:15:33 PM | INFO | Trying To Login for wallet: 0x92650e32f3770392621c740E19D05B8C3B7fA554 
+5/13/2025 | 12:15:33 PM | INFO | Login successful... 
+5/13/2025 | 12:15:33 PM | INFO | Trying to check user info... 
+5/13/2025 | 12:15:34 PM | INFO | User ID: 102714958 | Twitter: @kaynemelany | Total Points: 1848000 
+5/13/2025 | 12:15:34 PM | INFO | Trying to check user miner status... 
+5/13/2025 | 12:15:37 PM | INFO | Last mining time: 5/12/2025, 4:13:30 AM
+5/13/2025 | 12:15:37 PM | INFO | Trying to start Mining for wallet: 0x92650e32f3770392621c740E19D05B8C3B7fA554 
+5/13/2025 | 12:15:38 PM | INFO | Mine response: {"code":500,"msg":"startMining Fail, startMining has not reached refresh time","data":null}
+5/13/2025 | 12:15:38 PM | INFO | Trying to activate mining on-chain for wallet: 0x92650e32f3770392621c740E19D05B8C3B7fA554 
+5/13/2025 | 12:15:58 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xdceafbbb2b0e14f04568a8ec3e835d91476930cffd2d308d4be3a9bae6f3c740 
