@@ -5499,3 +5499,16 @@
 5/21/2025 | 8:11:50 AM | INFO | Trying to check user miner status... 
 5/21/2025 | 8:11:53 AM | INFO | Last mining time: 5/20/2025, 12:15:33 PM
 5/21/2025 | 8:11:53 AM | WARN | Mining already started, next mining time is: 5/21/2025, 12:15:33 PM
+5/21/2025 | 12:15:19 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/21/2025 | 12:15:20 PM | INFO | Start process for wallet 0x92650e32f3770392621c740E19D05B8C3B7fA554 
+5/21/2025 | 12:15:21 PM | INFO | Trying To Login for wallet: 0x92650e32f3770392621c740E19D05B8C3B7fA554 
+5/21/2025 | 12:15:21 PM | INFO | Login successful... 
+5/21/2025 | 12:15:21 PM | INFO | Trying to check user info... 
+5/21/2025 | 12:15:22 PM | INFO | User ID: 102714958 | Twitter: @kaynemelany | Total Points: 1992000 
+5/21/2025 | 12:15:22 PM | INFO | Trying to check user miner status... 
+5/21/2025 | 12:15:23 PM | INFO | Last mining time: 3/28/2025, 4:09:21 PM
+5/21/2025 | 12:15:23 PM | INFO | Trying to start Mining for wallet: 0x92650e32f3770392621c740E19D05B8C3B7fA554 
+5/21/2025 | 12:15:24 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+5/21/2025 | 12:15:24 PM | INFO | Trying to activate mining on-chain for wallet: 0x92650e32f3770392621c740E19D05B8C3B7fA554 
+5/21/2025 | 12:15:25 PM | ERROR | Activate Mining Error: {"code":"CALL_EXCEPTION","action":"estimateGas","data":null,"reason":null,"transaction":{"to":"0xB3eFE5105b835E5Dd9D206445Dbd66DF24b912AB","data":"0x02fb0c5e","from":"0x92650e32f3770392621c740E19D05B8C3B7fA554"},"invocation":null,"revert":null,"shortMessage":"missing revert data","info":{"error":{"code":-32603,"message":"execution fatal: Module(ModuleError { index: 40, error: [5, 0, 0, 0], message: None })"},"payload":{"method":"eth_estimateGas","params":[{"nonce":"0x59","from":"0x92650e32f3770392621c740e19d05b8c3b7fa554","to":"0xb3efe5105b835e5dd9d206445dbd66df24b912ab","data":"0x02fb0c5e"}],"id":3,"jsonrpc":"2.0"}}}
+5/21/2025 | 12:15:25 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
